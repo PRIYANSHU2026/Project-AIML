@@ -29,9 +29,10 @@ This project integrates the power of:
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Scikit-learn_logo.svg" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Pandas_logo.svg" alt="Pandas" width="50" height="50"/>
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50"/>
+
+
 </p>
 
 ---
