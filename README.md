@@ -2,7 +2,7 @@
 
 ## Integrating AI in All Fields: Medical, Financial, LLM, and Real-World Applications
 
-Welcome to **Hedging of Financial Derivative!** 📈
+Welcome to **Project-AIML!** 📈
 
 This project focuses on implementing a **robust trading strategy** using **statistical arbitrage** and **convergence techniques** for hedging **financial derivatives**.
 
