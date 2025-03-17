@@ -4,7 +4,8 @@
 
 Welcome to **Project-AIML!** 📈
 
-This project focuses on implementing a **robust trading strategy** using **statistical arbitrage** and **convergence techniques** for hedging **financial derivatives**.
+This project focuses on implementing cutting-edge AI-driven strategies utilizing deep learning models, reinforcement learning techniques, and data-driven decision-making across various fields, including healthcare, finance, natural language processing (LLMs), and real-world applications.
+
 
 ---
 
